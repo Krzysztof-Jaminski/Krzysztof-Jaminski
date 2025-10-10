@@ -1,10 +1,12 @@
-## Technologies & Tools
- 
-⚛️ React · 🚀 Next.js · 🌈 Tailwind CSS · 🔷 TypeScript · 🎨 Figma
+### Great to see you!
 
-🟦 .NET · #️⃣ C# · 🧰 Entity Framework · 📡 Swagger · 🟩 Web API · 🚀 MediatR · 🔒 Authentication (JWT, IdentityServer)
+Creating tools that actually serve a purpose is quite something 
 
-🟧 SQL · 🗄️ SQL Server · 🍃 MongoDB
+### Tech I prefer
 
-🐳 Docker · ☁️ AWS · 🔥 Firebase · 🎛️ Kubernetes · ⚙️ CI/CD · 🌐 RESTful APIs
+**React** · **.NET** · **Web / PWA** · **SQL / NoSQL DBs**
 
+<p align="center">
+  <!-- gotowy animowany "snake" (contribution-grid snake) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
