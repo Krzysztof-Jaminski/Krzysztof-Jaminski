@@ -1,10 +1,6 @@
-### Great to see you!
+### Hello there!
 
-Creating tools that actually serve a purpose is quite something 
-
-### Tech I prefer
-
-**React** · **.NET** · **Web / PWA** · **SQL / NoSQL DBs**
+Full Stack JS Next/Nest.js
 
 <p align="center">
   <!-- gotowy animowany "snake" (contribution-grid snake) -->
