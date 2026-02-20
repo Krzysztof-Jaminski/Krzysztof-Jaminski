@@ -1,6 +1,6 @@
 ### Hello there!
 
-Full Stack JS Next/Nest.js
+TS Next/Nest.js
 
 <p align="center">
   <!-- gotowy animowany "snake" (contribution-grid snake) -->
